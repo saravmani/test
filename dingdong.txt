@@ -1,2 +1,8 @@
 yes it new file
+<<<<<<< HEAD
 hahass
+=======
+haha
+huhu
+
+from linux haha
